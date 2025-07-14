@@ -16,7 +16,7 @@ function EditBook() {
   const { id } = useParams();
   useEffect(() => {
     setLoading(true);
-    axios.get(`http://localhost:5555/books/${id}`).then(
+    axios.get(`https://book-store-tgx6.onrender.com/books/${id}`).then(
       (response) => {
         setTitle(response.data.title);
         setAuthor(response.data.author);
@@ -38,7 +38,7 @@ function EditBook() {
     };
     setLoading(true);
     axios
-    .put( `http://localhost:5555/books/${id}`, data)
+    .put( `https://book-store-tgx6.onrender.com/books/${id}`, data)
     .then(() => {
       setLoading(false);
       enqueueSnackbar('Book updated successfully', {variant: 'success'});

@@ -15,7 +15,7 @@ function Home() {
   useEffect(()=>{
     setLoading(true);
     axios
-    .get('http://localhost:5555/books')
+    .get('https://book-store-tgx6.onrender.com/books')
     .then((res) =>{
         setBooks(res.data.data);
         setLoading(false);
