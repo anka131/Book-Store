@@ -19,6 +19,6 @@ A full-stack web application for managing a collection of books. Users can view,
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB with Mongoose
-- **Other tools**: Vite (or CRA), Axios, CORS
+- **Other tools**: Vite, Axios, CORS
 
 ---
