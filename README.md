@@ -1,6 +1,6 @@
 # 📚 Book Store
 
-Book Store is a simple web application designed to showcase CRUD (Create, Read, Update, Delete) operations in a frontend environment.  
+Book Store is a simple web application designed to showcase CRUD (Create, Read, Update, Delete) operations in a frontend environment with backend operations.  
 This project demonstrates the ability to manage data, update UI dynamically, and handle user interactions.
 
 ---
