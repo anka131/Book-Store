@@ -31,12 +31,42 @@ This project demonstrates the ability to manage data, update UI dynamically, and
 - Dynamic rendering based on state changes
 - Updating UI in response to user interactions
 
+---
+
+## 📸 Screenshots
+
+
+![Table Show](./README-assets/tableshow.png)
+![Card Show](./README-assets/cardshow.png)
+![Add new](./README-assets/add.png)
+![Info](./README-assets/info.png)
+![Edit](./README-assets/edit.png)
+
+
 
 ---
 
+## 🚀 Live Demo
+
+Frontend: (https://book-store-18fj.vercel.app/)
+
+
+---
 
 ## 🔮 Possible Improvements
 
 - Add search and filter functionality
 - Improve UI styling
 - Add unit tests
+
+---
+
+
+
+## 👤 Author
+
+Anka Knežević 
+
+Junior Frontend / Full-Stack Developer
+
+GitHub: https://github.com/anka131
